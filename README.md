@@ -1,0 +1,2 @@
+# ScholarX
+Research Publication App
